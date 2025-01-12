@@ -5,7 +5,7 @@ The application is built using HTML, CSS, and JavaScript and supports key featur
 ---
 Live Demo : https://mimicking-google-sheets-charan.netlify.app/
 
-![WhatsApp Image 2025-01-11 at 20 12 28_def2d57c](https://github.com/user-attachments/assets/27632d11-48a4-482b-93a3-6528980049d0)
+()
 ## Features
 
 ### 1. Spreadsheet Interface
