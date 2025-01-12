@@ -24,13 +24,12 @@ header {
     padding: 5px 10px;
     cursor: pointer;
     border: 1px solid transparent;
-    background-color: #d887e8
-;
+    background-color: #d887e8;
     transition: background-color 0.2s, border-color 0.2s;
 }
 
 .toolbar button.active {
-    background-color: #4285f4;
+    background-color: #d887e8;
     color: white;
     border-color: #005cbf;
 }
